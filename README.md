@@ -98,3 +98,13 @@ npm i Dependencia
 yarn remove Dependencia
 npm uninstall Dependencia
 ```
+
+
+
+## Resultado del Proyecto
+
+![](img/Inicio.png)
+
+![](img/Inicio.png)
+
+![](img/Inicio.png)
