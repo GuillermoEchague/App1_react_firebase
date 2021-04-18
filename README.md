@@ -103,7 +103,7 @@ npm uninstall Dependencia
 
 ## Resultado del Proyecto
 
-![](img/Inicio.png)
+![](img/home.png)
 
 ![](img/Inicio.png)
 
